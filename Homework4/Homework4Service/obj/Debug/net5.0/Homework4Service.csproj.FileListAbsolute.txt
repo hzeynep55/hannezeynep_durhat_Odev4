@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Homework4\Homework4Service\obj\Debug\net5.0\Homework4Service.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Homework4\Homework4Service\obj\Debug\net5.0\Homework4Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Homework4\Homework4Service\obj\Debug\net5.0\Homework4Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Homework4\Homework4Service\obj\Debug\net5.0\Homework4Service.AssemblyInfo.cs
+C:\Users\User\source\repos\Homework4\Homework4Service\obj\Debug\net5.0\Homework4Service.csproj.CoreCompileInputs.cache

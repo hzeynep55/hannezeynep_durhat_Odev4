@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Homework4\Homework4Dto\bin\Debug\net5.0\Homework4Dto.deps.json
+C:\Users\User\source\repos\Homework4\Homework4Dto\bin\Debug\net5.0\Homework4Dto.dll
+C:\Users\User\source\repos\Homework4\Homework4Dto\bin\Debug\net5.0\ref\Homework4Dto.dll
+C:\Users\User\source\repos\Homework4\Homework4Dto\bin\Debug\net5.0\Homework4Dto.pdb
+C:\Users\User\source\repos\Homework4\Homework4Dto\obj\Debug\net5.0\Homework4Dto.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Homework4\Homework4Dto\obj\Debug\net5.0\Homework4Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Homework4\Homework4Dto\obj\Debug\net5.0\Homework4Dto.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Homework4\Homework4Dto\obj\Debug\net5.0\Homework4Dto.AssemblyInfo.cs
+C:\Users\User\source\repos\Homework4\Homework4Dto\obj\Debug\net5.0\Homework4Dto.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Homework4\Homework4Dto\obj\Debug\net5.0\Homework4Dto.dll
+C:\Users\User\source\repos\Homework4\Homework4Dto\obj\Debug\net5.0\ref\Homework4Dto.dll
+C:\Users\User\source\repos\Homework4\Homework4Dto\obj\Debug\net5.0\Homework4Dto.pdb
